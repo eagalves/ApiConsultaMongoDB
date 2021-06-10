@@ -1,0 +1,61 @@
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\evand\Documents\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Users\evand\Documents\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Api.xml
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Users\evand\Documents\bootcamp localiza\dotnet-mongo-master\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache

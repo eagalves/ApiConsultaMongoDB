@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Controllers.InfectadoController.SalvarInfectado(Api.Models.InfectadoDto)">
+            <summary>
+            Registro de infectados
+            </summary>
+            <param name="dto">View Model de Registro do Infectado</param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Controllers.InfectadoController.ObterInfectados">
+            <summary>
+            Obtem o registro do infectado
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
